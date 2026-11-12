@@ -1,0 +1,7 @@
+data/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.pt
+*.joblib
+*.pkl

@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use V2G-MAAC or this code, please cite the dataset (and the article once published)."
+title: "V2G-MAAC: evaluation and reference-baseline code"
+type: software
+license: MIT
+repository-code: "https://github.com/mridul99/V2G-MAAC"
+authors:
+  - given-names: "Mishra Mridul"
+    family-names: "Kailashchandra"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Patna, India"
+    orcid: "https://orcid.org/0000-0002-8172-2798"
+  - given-names: "Udai Pratap"
+    family-names: "Rao"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Patna, India"
+    orcid: "https://orcid.org/0000-0002-2372-4138"
+  - given-names: "Pintu"
+    family-names: "Chauhan"
+    affiliation: "Department of Computer Science and Engineering, National Institute of Technology Patna, India"
+    orcid: "https://orcid.org/0000-0002-7148-2583"
+references:
+  - type: dataset
+    title: "V2G-MAAC: A Semi-Synthetic Benchmark Dataset for Multi-Authority Access Control in Vehicle-to-Grid Charging Networks"
+    version: "1.0.0"
+    doi: "10.17632/4dfgtkgsb5.1"
+    license: CC-BY-4.0
+    url: "https://data.mendeley.com/datasets/4dfgtkgsb5/1"
+    authors:
+      - given-names: "Mishra Mridul"
+        family-names: "Kailashchandra"
+      - given-names: "Udai Pratap"
+        family-names: "Rao"
+      - given-names: "Pintu"
+        family-names: "Chauhan"
+preferred-citation:
+  type: article
+  title: "V2G-MAAC: A Semi-Synthetic Benchmark for Multi-Authority Access Control in Vehicle-to-Grid Charging Networks"
+  journal: "Journal of Network and Computer Applications"
+  authors:
+    - given-names: "Mishra Mridul"
+      family-names: "Kailashchandra"
+      affiliation: "National Institute of Technology Patna"
+      email: mishrak.ph23.cs@nitp.ac.in
+    - given-names: "Udai Pratap"
+      family-names: "Rao"
+      affiliation: "National Institute of Technology Patna"
+    - given-names: "Pintu"
+      family-names: "Chauhan"
+      affiliation: "National Institute of Technology Patna"
